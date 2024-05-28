@@ -1,0 +1,18 @@
+.container
+{
+    border: 1px solid white;
+    text-align: center;
+}
+#search-box
+{
+    border: 1px solid white;
+    width: 250px;
+    height: 25px;
+    border-radius: 0.5em;
+    background-color: rgb(15, 15, 15);
+}
+#Inputfield
+{
+    padding: 10px;
+    justify-content: space-between;
+}
